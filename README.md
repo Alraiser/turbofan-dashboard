@@ -16,4 +16,7 @@ The models are trained and evaluated on the **NASA C-MAPSS** (Commercial Modular
 * **Machine Learning:** Random Forest algorithms for robust feature evaluation and predictive modeling.
 * **Deployment:** HTML-based interactive technical dashboard.
 
+* ## How to view
+* https://alraiser.github.io/turbofan-dashboard/
+
 
